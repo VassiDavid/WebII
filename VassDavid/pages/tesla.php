@@ -1,0 +1,4 @@
+<div class="cars">
+    <img src="images/tesla.jpg" />
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu lobortis metus. Praesent metus velit, commodo non viverra ac, semper quis nulla. Mauris porttitor ante ut ante commodo commodo. Nullam lobortis nulla massa, a placerat libero dignissim tristique. Nullam posuere erat quis dictum scelerisque. Vestibulum mi felis, varius semper lacinia luctus, volutpat et mi. Duis mattis volutpat lorem quis cursus. Etiam sed sodales ante. Suspendisse sit amet diam sollicitudin, egestas augue vitae, tempus est. Nunc vulputate vulputate turpis. Cras pharetra orci dolor, id faucibus magna varius non. Suspendisse a laoreet sapien.</p>
+</div>
